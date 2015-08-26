@@ -1,5 +1,5 @@
 # Built application files
-*.apk
+#*.apk
 *.ap_
 
 # Files for the Dalvik VM
@@ -25,3 +25,8 @@ proguard/
 
 # Log Files
 *.log
+
+*.iml
+lint.xml
+ant.properties
+signing.properties
